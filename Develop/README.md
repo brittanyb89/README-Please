@@ -1,10 +1,10 @@
 
-  # README
+  # README Project
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ##Description:
-  readme file
+  This project is designed to create a README file easily for each project.
 
   # Table of Content
 -[Description](#Description)
@@ -19,7 +19,7 @@
   undefined
 
 ##Usage:
-  sjoloj
+  Answer each question in terminal so that it creates a new README.md file in your explorer.
 
 ##Licenses:
   This project is licensed under the terms of the MIT license.
@@ -32,5 +32,5 @@
   undefined
 
 ##Questions:
-  ehfism
+  b.jenez@icloud.com
   undefined
