@@ -124,7 +124,9 @@ const questions = [
 function writeToFile(README, data) {
   fs.writeFile("README.md", data, (err) => {
     if (err) throw err;
-    console.log("README file created! Check out README.md to see it!");
+    console.log(
+      "README file created! Check out README.md inside the utils folder to see it!"
+    );
   });
 }
 
