@@ -1,10 +1,10 @@
 
-  # README Project
+  # Read Me Please
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ##Description:
-  This project is designed to create a README file easily for each project.
+  This application is designed to generate a read me file for each project.
 
   # Table of Content
 -[Description](#Description)
@@ -19,7 +19,7 @@
   undefined
 
 ##Usage:
-  Answer each question in terminal so that it creates a new README.md file in your explorer.
+  This is a fast and fun way to generate a read me for each project.
 
 ##Licenses:
   This project is licensed under the terms of the MIT license.
